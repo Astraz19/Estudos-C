@@ -1,4 +1,5 @@
 #include <stdio.h>
+//função principal
 
 int main(){
     //VARIAVEIS
