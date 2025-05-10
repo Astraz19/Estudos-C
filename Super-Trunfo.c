@@ -199,7 +199,7 @@ int main(){
                     printf("EMPATE!!\n");
                 }
 
-            }else if (escolha_comparacao1 = 6){
+            }else if (escolha_comparacao1 == 6){
                 //Comparando o Super Poder
 
                 printf("\n\n **** Atributo Super Poder **** \n");
@@ -383,7 +383,7 @@ int main(){
                         printf("EMPATE!!\n");
                     }
     
-                }else if (escolha_comparacao2 = 6){
+                }else if (escolha_comparacao2 == 6){
                     //Comparando o Super Poder
     
                     printf("\n\n **** Atributo Super Poder **** \n");
