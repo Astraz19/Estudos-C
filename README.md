@@ -1,4 +1,4 @@
-# Estudos-C# 🎮 Super Trunfo em C (Projeto de Aprendizagem)
+# 🎮 Super Trunfo em C (Projeto de Aprendizagem)
 
 Este é um projeto simples baseado no jogo Suyper Trunfo, desenvolvido em linguagem C como parte dos meus estudos iniciais em programação. O jogo permite cadastrar duas "Cartas" baseadas em cidades e depois comparar os atributos de cada carta e declarar o vencedor.
 
